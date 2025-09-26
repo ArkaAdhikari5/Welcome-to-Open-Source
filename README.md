@@ -63,7 +63,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Arka Adhikari" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Arka Adhikari</b>
                     </sub>
                 </a>
             </td>
